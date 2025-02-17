@@ -1,9 +1,9 @@
 # Bank_Analytics_Dashboard
-#Project: Bank loan of customers
+##Project: Bank loan of customers
 
 In this project, I utilized Excel, Power BI, Tableau and SQL to analyze bank loan data, providing key performance indicators (KPI's) that offer valuable insights into loan performance, customer behavior, and trends.
 
-#KPI's Questions -
+##KPI's Questions -
 
 1.Year wise loan amount Stats
 
