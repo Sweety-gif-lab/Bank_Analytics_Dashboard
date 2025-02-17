@@ -4,6 +4,7 @@
 In this project, I utilized Excel, Power BI, Tableau and SQL to analyze bank loan data, providing key performance indicators (KPI's) that offer valuable insights into loan performance, customer behavior, and trends.
 
 #KPI's Questions -
+
 1.Year wise loan amount Stats
 
 2.Grade and sub grade wise revol_bal
